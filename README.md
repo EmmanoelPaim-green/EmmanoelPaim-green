@@ -47,7 +47,7 @@ Principais tecnologias: Flutter, Dart, Android, iOS, Web, Clean Architecture, MV
 ---
 ## 📊 Estatísticas
 
-![Streak](https://streak-stats.demolab.com?user=emmanoelpaim&theme=tokyonight&hide_border=true)
+![Streak](https://streak-stats.demolab.com?user=EmmanoelPaim-green&theme=tokyonight&hide_border=true)
 
 ---
 ## 🎯 Sobre mim
